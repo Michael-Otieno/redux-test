@@ -1,5 +1,6 @@
 {
   "name": "redux-test",
+  "proxy": "https://touchinspiration-0ada.restdb.io/rest",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
