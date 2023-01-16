@@ -30,6 +30,7 @@ if (status === 'failed') {
     <section>
       <h1>users</h1>
       {
+        // Users details not showing because of cors issue
         data.map((user)=>(
           <div key={user.id}>{user.name}</div>
         ))
